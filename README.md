@@ -17,7 +17,7 @@ Didesain untuk berjalan langsung di Termux atau terminal Linux.
 ```bash
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/your-username/fastlink
+git clone https://github.com/ImFastro/FastLink
 cd fastlink
 chmod +x fastlink.sh
 ./fastlink.sh
